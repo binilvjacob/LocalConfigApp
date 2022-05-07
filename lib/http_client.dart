@@ -5,7 +5,6 @@ import 'configip.dart';
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
 
-
 int cmd = 212;
 var respCmd;
 var respSid;
