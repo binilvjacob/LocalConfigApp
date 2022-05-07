@@ -1,0 +1,4 @@
+#Tue Mar 08 13:58:21 IST 2022
+base.0=C\:\\Users\\Athul\\AndroidStudioProjects\\tab app -  socket full alive\\build\\app\\intermediates\\dex\\profile\\mergeDexProfile\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
