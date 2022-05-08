@@ -1,204 +1,181 @@
 -- Merging decision tree log ---
-manifest
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-MERGED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-MERGED from [:shared_preferences] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\shared_preferences\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
-MERGED from [:permission_handler] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\permission_handler\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-14:12
-MERGED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-9:12
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-19:12
-MERGED from [:path_provider] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\path_provider\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
-MERGED from [:ext_storage] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\ext_storage\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml:1:1-7:12
-	package
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:2:5-38
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
-	android:versionName
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
-	android:versionCode
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:1-48:12
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:8:5-46:19
-MERGED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-12:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:8:5-46:19
+MERGED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
-	android:label
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:10:9-32
-	android:icon
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:9:9-57
-activity#com.example.flutter_app.MainActivity
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:12:9-40:20
-	android:launchMode
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:14:13-43
-	android:hardwareAccelerated
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:17:13-47
-	android:windowSoftInputMode
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:18:13-55
-	android:configChanges
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:16:13-163
-	android:theme
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:15:13-47
-	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:13:13-41
-meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:23:13-26:17
-	android:resource
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:25:15-52
-	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:24:15-70
-meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:32:13-35:17
-	android:resource
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:34:15-61
-	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:33:15-79
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:36:13-39:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:37:17-68
-	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:37:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:38:17-76
-	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:38:27-74
-meta-data#flutterEmbedding
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:43:9-45:33
-	android:value
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:45:13-30
-	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:44:13-44
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:permission_handler] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\permission_handler\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-9:12
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-19:12
+MERGED from [:shared_preferences_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\shared_preferences_android\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\path_provider_android\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e4cae6351c67261500c8843bd2f2d67d\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\9586365cf3c2c75d5366bb230e77dee7\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\cd3de05e99fd76a5d34b21c0523bd76e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0cc9cbafa8c486fd3f86868a93c29998\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\30f64ec2a030d55e6944573e06650816\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\1ca0dd58da959cf179b5bf9bc3560515\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\6e2664c542e8016022d06dfd7a33f892\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3faa409d273f71f1a7605793633b1482\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\2c8d98998e043d7c5aa2ab23960bb9b4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0297e27d67f11e8499680246e1745b39\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\be32c5f8865b7d82164a887ff9ea1ea4\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e086372835664239d2bb0d222598be8d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\92bb2626275522e407f82139a27f0787\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\456f67d4b84e7c049bfc678289ccba74\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:47:5-66
-MERGED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:47:5-66
-MERGED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:47:5-66
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:9:5-67
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:47:5-66
+MERGED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:47:5-66
+MERGED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:47:5-66
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:9:5-67
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:47:22-64
+		ADDED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:47:22-64
 uses-sdk
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-MERGED from [:shared_preferences] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\shared_preferences\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\shared_preferences\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\permission_handler\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\permission_handler\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\path_provider\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\path_provider\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:ext_storage] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\ext_storage\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [:ext_storage] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\ext_storage\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
-INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:permission_handler] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\permission_handler\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\permission_handler\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\shared_preferences_android\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\shared_preferences_android\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\path_provider_android\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\path_provider_android\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e4cae6351c67261500c8843bd2f2d67d\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e4cae6351c67261500c8843bd2f2d67d\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\9586365cf3c2c75d5366bb230e77dee7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\9586365cf3c2c75d5366bb230e77dee7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\cd3de05e99fd76a5d34b21c0523bd76e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\cd3de05e99fd76a5d34b21c0523bd76e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0cc9cbafa8c486fd3f86868a93c29998\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0cc9cbafa8c486fd3f86868a93c29998\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\30f64ec2a030d55e6944573e06650816\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\30f64ec2a030d55e6944573e06650816\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\1ca0dd58da959cf179b5bf9bc3560515\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\1ca0dd58da959cf179b5bf9bc3560515\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\6e2664c542e8016022d06dfd7a33f892\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\6e2664c542e8016022d06dfd7a33f892\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3faa409d273f71f1a7605793633b1482\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\3faa409d273f71f1a7605793633b1482\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\2c8d98998e043d7c5aa2ab23960bb9b4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\2c8d98998e043d7c5aa2ab23960bb9b4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0297e27d67f11e8499680246e1745b39\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0297e27d67f11e8499680246e1745b39\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\be32c5f8865b7d82164a887ff9ea1ea4\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\be32c5f8865b7d82164a887ff9ea1ea4\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e086372835664239d2bb0d222598be8d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\e086372835664239d2bb0d222598be8d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\914d3250ab42d7de9cc8221d0089dff2\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\92bb2626275522e407f82139a27f0787\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\92bb2626275522e407f82139a27f0787\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\456f67d4b84e7c049bfc678289ccba74\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\456f67d4b84e7c049bfc678289ccba74\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
+INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\profile\AndroidManifest.xml
-activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:8:9-11:74
-	android:exported
-		ADDED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:10:13-37
-	android:theme
-		ADDED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:11:13-71
-	android:name
-		ADDED from [:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\profile\AndroidManifest.xml:9:13-74
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\profile\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-79
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:11:5-79
-MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:11:5-79
+ADDED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-79
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:11:5-79
+MERGED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:7:22-76
+		ADDED from [:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\profile\AndroidManifest.xml:7:22-76
 uses-feature#android.hardware.wifi
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-58
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:7:5-58
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:7:19-55
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:7:19-55
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:10:5-76
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:10:22-73
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:10:22-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:12:5-79
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:12:22-76
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:13:5-79
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:13:22-76
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:14:5-81
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:14:22-78
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:16:5-76
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:16:5-76
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:16:22-73
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:16:22-73
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:17:5-73
+ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:17:5-73
 	android:name
-		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:17:22-70
+		ADDED from [:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\profile\AndroidManifest.xml:17:22-70
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\profile\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

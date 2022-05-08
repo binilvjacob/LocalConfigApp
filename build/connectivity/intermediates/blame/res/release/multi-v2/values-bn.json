@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\tab app -  socket full alive\\build\\connectivity\\intermediates\\res\\merged\\release\\values-bn\\values-bn.xml",
+            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\connectivity\\intermediates\\res\\merged\\release\\values-bn\\values-bn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\0df9b2e2e8a018301981863d0877730d\\core-1.6.0\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\tab app -  socket full alive\\build\\connectivity\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\connectivity\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\0df9b2e2e8a018301981863d0877730d\\core-1.6.0\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,4 +1,4 @@
-#Tue Mar 15 10:49:12 IST 2022
-base.0=C\:\\Users\\Athul\\AndroidStudioProjects\\tab app -  socket full alive\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+#Sun May 08 13:45:01 IST 2022
+base.0=C\:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

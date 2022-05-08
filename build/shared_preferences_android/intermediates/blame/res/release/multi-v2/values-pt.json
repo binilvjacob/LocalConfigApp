@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\basil\\StudioProjects\\tab app -  socket full alive\\build\\shared_preferences_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt\\values-pt.xml",
+            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\values-pt\\values-pt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\basil\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\0df9b2e2e8a018301981863d0877730d\\core-1.6.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\basil\\StudioProjects\\tab app -  socket full alive\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\values-pt\\values-pt.xml",
+            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\shared_preferences_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt\\values-pt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\basil\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\0df9b2e2e8a018301981863d0877730d\\core-1.6.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

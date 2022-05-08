@@ -1,15 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import './configip.dart';
+import 'manualPage.dart';
 import 'package:flutter/services.dart';
-import './page_1.dart';
-import 'page_2.dart';
-import 'page_3.dart';
-import 'page_4.dart';
-import 'page_5.dart';
-import 'page_6.dart';
-import 'page_7.dart';
-import 'page_8.dart';
+import 'homePage.dart';
 
 int currentPage = 0;
 
@@ -351,38 +344,22 @@ final snackBar = SnackBar(
   backgroundColor: Colors.redAccent,
 );
 
+final successSnackBar = SnackBar(
+  content: Text(
+    'Success',
+    style: TextStyle(
+        // fontFamily: 'FredokaOne',
+        fontSize: 20),
+  ),
+//padding: EdgeInsets.only(left: 300),
+//margin: EdgeInsets.only(left: 60),
+  //width: 50,
+  // elevation: 3,
+  duration: Duration(milliseconds: 1000),
+  backgroundColor: Colors.green,
+);
+
 int z1 = 0, z2 = 0, z3 = 0, z4 = 0, z5 = 0, z6 = 0, z7 = 0, z8 = 0;
-
-// RestartableTimer timer1 ;
-// RestartableTimer timer2 ;
-
-Credentials cred = Credentials(
-    0,
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0");
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -394,10 +371,10 @@ void main() async {
   ////////////////////////////////////////////
 
   WidgetsFlutterBinding.ensureInitialized();
-  await SystemChrome.setPreferredOrientations([
-    DeviceOrientation.landscapeLeft,
-  ]);
-  SystemChrome.setEnabledSystemUIOverlays([]);
+  // await SystemChrome.setPreferredOrientations([
+  //   DeviceOrientation.landscapeLeft,
+  // ]);
+  // SystemChrome.setEnabledSystemUIOverlays([]);
   runApp(MyApp());
 }
 
@@ -437,9 +414,6 @@ class _MyAppState extends State<MyApp> {
       routes: {
         // When navigating to the "/" route, build the FirstScreen widget.
         '/': (context) => HomePage(),
-        // When navigating to the "/second" route, build the SecondScreen widget.
-        '/second': (context) => PageTwo(),
-        '/svr': (context) => SecondRoute(),
       },
       // home:Scaffold(
       //   //resizeToAvoidBottomPadding: false,
@@ -570,31 +544,31 @@ class _SecondRouteState extends State<SecondRoute> {
   }
 }
 
-class HomePage extends StatefulWidget {
-  @override
-  _HomePageState createState() => _HomePageState();
-}
-
-class _HomePageState extends State<HomePage> {
-  @override
-  Widget build(BuildContext context) {
-    //activePage=1;
-
-    return Scaffold(
-      body: PageView(
-          onPageChanged: (value) {
-            currentPage = value;
-          },
-          children: [
-            PageOne(),
-            PageTwo(),
-            PageThree(),
-            PageFour(),
-            PageFive(),
-            PageSix(),
-            PageSeven(),
-            PageEight(),
-          ]),
-    );
-  }
-}
+// class HomePage extends StatefulWidget {
+//   @override
+//   _HomePageState createState() => _HomePageState();
+// }
+//
+// class _HomePageState extends State<HomePage> {
+//   @override
+//   Widget build(BuildContext context) {
+//     //activePage=1;
+//
+//     return Scaffold(
+//       body: PageView(
+//           onPageChanged: (value) {
+//             currentPage = value;
+//           },
+//           children: [
+//             PageOne(),
+//             PageTwo(),
+//             PageThree(),
+//             PageFour(),
+//             PageFive(),
+//             PageSix(),
+//             PageSeven(),
+//             PageEight(),
+//           ]),
+//     );
+//   }
+// }

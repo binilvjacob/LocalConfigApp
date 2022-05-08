@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\aswin\\StudioProjects\\tab app -  socket full alive\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "outputFile": "C:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aswin\\.gradle\\caches\\transforms-2\\files-2.1\\0df9b2e2e8a018301981863d0877730d\\core-1.6.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\Athul\\.gradle\\caches\\transforms-2\\files-2.1\\0df9b2e2e8a018301981863d0877730d\\core-1.6.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

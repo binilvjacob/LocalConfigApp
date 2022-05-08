@@ -6,39 +6,39 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="29" />
-9-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:47:5-66
-11-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:47:22-64
+11-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:47:5-66
+11-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:47:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
-12-->[:connectivity] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:22-76
+12-->[:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:5-79
+12-->[:connectivity] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\connectivity\intermediates\library_manifest\release\AndroidManifest.xml:7:22-76
 13
 14    <uses-feature android:name="android.hardware.wifi" />
-14-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:7:5-58
-14-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:7:19-55
+14-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:7:5-58
+14-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:7:19-55
 15
 16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-16-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:10:5-76
-16-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:10:22-73
+16-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:10:5-76
+16-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:10:22-73
 17    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
-17-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:12:5-79
-17-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:12:22-76
+17-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:12:5-79
+17-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:12:22-76
 18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-18-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
-18-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:13:22-76
+18-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+18-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:13:22-76
 19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- TODO remove the below two permission from v1.0.0, user need to add this explicitly -->
-19-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:14:5-81
-19-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:14:22-78
+19-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:14:5-81
+19-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:14:22-78
 20    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-20-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:16:5-76
-20-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:16:22-73
+20-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:16:5-76
+20-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:16:22-73
 21    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-21-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:17:5-73
-21-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:17:22-70
+21-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:17:5-73
+21-->[:wifi_iot] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\wifi_iot\intermediates\library_manifest\release\AndroidManifest.xml:17:22-70
 22    <!--
 23 io.flutter.app.FlutterApplication is an android.app.Application that
 24         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -47,29 +47,28 @@
 27         FlutterApplication and put your custom class here.
 28    -->
 29    <application
-29-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:8:5-46:19
-30        android:name="io.flutter.app.FlutterApplication"
-30-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:9:9-57
+30        android:name="android.app.Application"
+30-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:9:9-42
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-31-->[androidx.core:core:1.1.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
+31-->[androidx.core:core:1.6.0] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\0df9b2e2e8a018301981863d0877730d\core-1.6.0\AndroidManifest.xml:24:18-86
 32        android:icon="@mipmap/ic_launcher"
-32-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:11:9-43
+32-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:11:9-43
 33        android:label="LiHome2" >
-33-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:10:9-32
+33-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:10:9-32
 34        <activity
-34-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:12:9-40:20
+34-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:12:9-40:20
 35            android:name="com.example.flutter_app.MainActivity"
-35-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:13:13-41
+35-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:13:13-41
 36            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-36-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:16:13-163
+36-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:16:13-163
 37            android:hardwareAccelerated="true"
-37-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:17:13-47
+37-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:17:13-47
 38            android:launchMode="singleTop"
-38-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:14:13-43
+38-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:14:13-43
 39            android:theme="@style/LaunchTheme"
-39-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:15:13-47
+39-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:15:13-47
 40            android:windowSoftInputMode="adjustResize" >
-40-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:18:13-55
+40-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:18:13-55
 41
 42            <!--
 43                 Specifies an Android theme to apply to this Activity as soon as
@@ -78,11 +77,11 @@
 46                 to determine the Window background behind the Flutter UI.
 47            -->
 48            <meta-data
-48-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:23:13-26:17
+48-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:23:13-26:17
 49                android:name="io.flutter.embedding.android.NormalTheme"
-49-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:24:15-70
+49-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:24:15-70
 50                android:resource="@style/NormalTheme" />
-50-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:25:15-52
+50-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:25:15-52
 51            <!--
 52                 Displays an Android View that continues showing the launch screen
 53                 Drawable until Flutter paints its first frame, then this splash
@@ -91,21 +90,21 @@
 56                 Flutter's first frame.
 57            -->
 58            <meta-data
-58-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:32:13-35:17
+58-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:32:13-35:17
 59                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-59-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:33:15-79
+59-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:33:15-79
 60                android:resource="@drawable/launch_background" />
-60-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:34:15-61
+60-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:34:15-61
 61
 62            <intent-filter>
-62-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:36:13-39:29
+62-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:36:13-39:29
 63                <action android:name="android.intent.action.MAIN" />
-63-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:37:17-68
-63-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:37:25-66
+63-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:37:17-68
+63-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:37:25-66
 64
 65                <category android:name="android.intent.category.LAUNCHER" />
-65-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:38:17-76
-65-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:38:27-74
+65-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:38:17-76
+65-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:38:27-74
 66            </intent-filter>
 67        </activity>
 68        <!--
@@ -113,20 +112,33 @@
 70             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 71        -->
 72        <meta-data
-72-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:43:9-45:33
+72-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:43:9-45:33
 73            android:name="flutterEmbedding"
-73-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:44:13-44
+73-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:44:13-44
 74            android:value="2" />
-74-->C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\android\app\src\main\AndroidManifest.xml:45:13-30
+74-->C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\android\app\src\main\AndroidManifest.xml:45:13-30
 75
 76        <activity
-76-->[:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+76-->[:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
 77            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-77-->[:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+77-->[:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
 78            android:exported="false"
-78-->[:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+78-->[:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
 79            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-79-->[:url_launcher] C:\Users\Athul\AndroidStudioProjects\tab app -  socket full alive\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
-80    </application>
-81
-82</manifest>
+79-->[:url_launcher_android] C:\Users\Athul\AndroidStudioProjects\LocalConfigApp\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+80
+81        <uses-library
+81-->[androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+82            android:name="androidx.window.extensions"
+82-->[androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+83            android:required="false" />
+83-->[androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+84        <uses-library
+84-->[androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+85            android:name="androidx.window.sidecar"
+85-->[androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+86            android:required="false" />
+86-->[androidx.window:window:1.0.0-beta04] C:\Users\Athul\.gradle\caches\transforms-2\files-2.1\426d84e1dffc76ebeddc4aa42abaccb9\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+87    </application>
+88
+89</manifest>

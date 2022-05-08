@@ -1,4 +1,4 @@
-#Fri Apr 22 12:36:45 IST 2022
-base.0=C\:\\Users\\aswin\\StudioProjects\\tab app -  socket full alive\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Sun May 08 12:59:40 IST 2022
+base.0=C\:\\Users\\Athul\\AndroidStudioProjects\\LocalConfigApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
+renamed.0=classes.dex

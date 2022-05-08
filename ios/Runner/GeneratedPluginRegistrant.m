@@ -12,12 +12,6 @@
 @import connectivity;
 #endif
 
-#if __has_include(<ext_storage/ExtStoragePlugin.h>)
-#import <ext_storage/ExtStoragePlugin.h>
-#else
-@import ext_storage;
-#endif
-
 #if __has_include(<path_provider_ios/FLTPathProviderPlugin.h>)
 #import <path_provider_ios/FLTPathProviderPlugin.h>
 #else
@@ -52,7 +46,6 @@
 
 + (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry {
   [FLTConnectivityPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTConnectivityPlugin"]];
-  [ExtStoragePlugin registerWithRegistrar:[registry registrarForPlugin:@"ExtStoragePlugin"]];
   [FLTPathProviderPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTPathProviderPlugin"]];
   [PermissionHandlerPlugin registerWithRegistrar:[registry registrarForPlugin:@"PermissionHandlerPlugin"]];
   [FLTSharedPreferencesPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTSharedPreferencesPlugin"]];
